@@ -1,0 +1,22 @@
+
+{
+  "name": "Nova Pro",
+  "short_name": "NovaPro",
+  "description": "Um sistema operacional assistente com capacidades avançadas de Autopilot e visão neural.",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#020617",
+  "theme_color": "#06b6d4",
+  "icons": [
+    {
+      "src": "./icons/icon-192.svg",
+      "type": "image/svg+xml",
+      "sizes": "192x192"
+    },
+    {
+      "src": "./icons/icon-512.svg",
+      "type": "image/svg+xml",
+      "sizes": "512x512"
+    }
+  ]
+}
